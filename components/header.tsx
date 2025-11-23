@@ -75,7 +75,7 @@ export default function Header() {
                 Timeline & Projects
               </Link>
               <a
-                href="/CV.pdf"
+                href="/Rajeev_Persaud_CV.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-lg font-medium hover:opacity-70 transition-opacity"
@@ -146,7 +146,7 @@ export default function Header() {
             Timeline & Projects
           </Link>
           <a
-            href="/CV.pdf"
+            href="/Rajeev_Persaud_CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => setIsMenuOpen(false)}
